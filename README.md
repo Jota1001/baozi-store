@@ -45,5 +45,4 @@ Pedido:  `{ "clienteId": 1, "produtoId": 1, "quantidade": 6 }`
 
 ## Postman
 
-Importe `postman/BaoziStore.postman_collection.json` (Import > arquivo). Troque `Joao5178152` pelo seu nome + RU
-no request "POST Cliente" antes de enviar.
+Importe postman/BaoziStore.postman_collection.json no Postman (Import > arquivo) e execute as requisições na ordem numerada, com a API rodando em http://localhost:8080
